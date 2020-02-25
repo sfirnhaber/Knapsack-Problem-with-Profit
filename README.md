@@ -30,17 +30,13 @@ Example:
 
 3 50
 
-Constraints
-
-NA
-
 Output Format
 
 Print out the maximum profit.
 
 Example: for the above input 105
 
-Sample Input 0
+Sample Input:
 
 3
 
@@ -52,6 +48,6 @@ Sample Input 0
 
 3 50
 
-Sample Output 0
+Sample Output:
 
 105

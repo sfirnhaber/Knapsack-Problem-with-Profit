@@ -19,11 +19,17 @@ Input Format
 First line is C. Second line is the number of objects, N. The next N lines, each line contains two numbers: the first number is the weight of an object and the second number is the profit of that object.
 
 Example:
+
 3
+
 3
+
 1 100
+
 2 5
+
 3 50
+
 Constraints
 
 NA
@@ -37,9 +43,13 @@ Example: for the above input 105
 Sample Input 0
 
 3
+
 3
+
 1 100
+
 2 5
+
 3 50
 
 Sample Output 0

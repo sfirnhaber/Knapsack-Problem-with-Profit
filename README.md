@@ -4,9 +4,13 @@ This was a homwork problem I recieved as a part of my Algorithms course. The sol
 In this problem, we are given a knapsack of fixed capacity C. We are also given a list of N objects, each having a weight W(I) and profit P(I). We can put any subset of the objects into the knapsack, as long as the total weight of our selection does not exceed C. The goal is to maximize the total profit, which is the sum of the profits of each object we put into the knapsack.
 
 Example:
+
 Input:
+
 C = 3
+
 W: 1 2 3
+
 P: 100 5 50
 
 Selected Items:

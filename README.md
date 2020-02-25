@@ -1,8 +1,8 @@
 # Knapsack-Problem-with-Profit
 
-This was a homwork problem I recieved as a part of my Algorithms course. The solution involves dynamic programming. This solutiion is made in C++. Below is the problem as it was listed.
+This was a homwork problem I recieved as a part of my Algorithms course. The solution involves dynamic programming. This solution is made in C++. Below is the problem as it was listed:
 
-n this problem, we are given a knapsack of fixed capacity C. We are also given a list of N objects, each having a weight W(I) and profit P(I). We can put any subset of the objects into the knapsack, as long as the total weight of our selection does not exceed C. The goal is to maximize the total profit, which is the sum of the profits of each object we put into the knapsack.
+In this problem, we are given a knapsack of fixed capacity C. We are also given a list of N objects, each having a weight W(I) and profit P(I). We can put any subset of the objects into the knapsack, as long as the total weight of our selection does not exceed C. The goal is to maximize the total profit, which is the sum of the profits of each object we put into the knapsack.
 
 Example:
 Input:
